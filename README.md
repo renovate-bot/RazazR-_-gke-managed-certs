@@ -1,3 +1,7 @@
+> [!NOTE]
+> **This repository is now archived.** The functionality of `gke-managed-certs` is now natively integrated into Google Kubernetes Engine as a managed offering and this repository is no longer accepting new changes. For the current and recommended way to use Managed Certificates, please refer to the **[official Google Cloud documentation](https://cloud.google.com/kubernetes-engine/docs/how-to/managed-certs)**.
+
+
 # Managed Certificates
 
 Managed Certificates simplify user flow in managing HTTPS traffic.
